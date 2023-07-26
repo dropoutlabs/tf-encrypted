@@ -1,5 +1,5 @@
 asn1crypto==0.24.0
-certifi==2018.8.24
+certifi==2023.7.22
 cffi==1.11.5
 colorama==0.3.7
 pylint==2.3.1
